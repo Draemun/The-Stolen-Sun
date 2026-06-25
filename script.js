@@ -9,7 +9,6 @@ const routes = {
   categories: renderCategories,
   corruption: renderCorruption,
   tech: renderTech,
-  world: renderWorld,
   integrated: renderIntegrated,
   society: renderSociety,
 };
