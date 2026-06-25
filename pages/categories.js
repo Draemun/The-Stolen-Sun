@@ -71,7 +71,6 @@ function renderCategories() {
   return `
     <section class="chapter" id="categories">
       <div class="chapter-header">
-        <span class="chapter-number">Chapter VII</span>
         <h2 class="chapter-title">The Six Categories</h2>
       </div>
 

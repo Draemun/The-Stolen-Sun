@@ -7,7 +7,6 @@ function renderIntegrated() {
   return `
     <section class="chapter" id="integrated">
       <div class="chapter-header">
-        <span class="chapter-number">Chapter XII</span>
         <h2 class="chapter-title">The Integrated</h2>
         <p class="chapter-lead">People so saturated with godware they crossed a biological threshold where they end up more god than human. Gods don't recognize them as kin and want their parts back. Humans see them as unpredictable and dangerous. Both sides hunt them.</p>
       </div>
