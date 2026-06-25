@@ -5,26 +5,50 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
     <title>The Stolen Sun</title>
     <link rel="stylesheet" href="styles.css">
-    <style> @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crete+Round:ital@0;1&family=Share+Tech+Mono&display=swap');</style>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crete+Round:ital@0;1&family=Share+Tech+Mono&display=swap');</style>
 </head>
 <body>
-    <div></div>
-    <nav>
-  <a href="#home">Home</a>
-  <a href="#timeline">Timeline</a>
-  <a href="#locations">Locations</a>
-  <a href="#factions">Factions</a>
-  <a href="#gods">Gods</a>
-  <a href="#categories">The Six Categories</a>
-  <a href="#crystals">Crystals</a>
-  <a href="#corruption">Corruption</a>
-  <a href="#tech">Technology</a>
-  <a href="#religion">Religion and Beliefs</a>
-  <a href="#integrated">The Integrated</a>
-  <a href="#society">Society & World</a>
-</nav>
+
+    <div class="stars"></div>
+
+    <div class="burger-menu" id="burgerMenu">
+        <div class="burger-icon" onclick="toggleMenu()">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <nav class="sidebar" id="sidebar">
+            <a href="#home" onclick="closeSidebar()">Home</a>
+            <a href="#timeline" onclick="closeSidebar()">Timeline</a>
+            <a href="#locations" onclick="closeSidebar()">Locations</a>
+            <a href="#factions" onclick="closeSidebar()">Factions</a>
+            <a href="#integrated" onclick="closeSidebar()">The Integrated</a>
+            <a href="#gods" onclick="closeSidebar()">Gods</a>
+            <a href="#categories" onclick="closeSidebar()">The Six Categories</a>
+            <a href="#crystals" onclick="closeSidebar()">Crystals</a>
+            <a href="#corruption" onclick="closeSidebar()">Corruption</a>
+            <a href="#tech" onclick="closeSidebar()">Technology</a>
+            <a href="#religion" onclick="closeSidebar()">Religion and Beliefs</a>
+            <a href="#society" onclick="closeSidebar()">Society & World</a>
+        </nav>
+    </div>
+
+    <div class="search-container">
+        <div class="search-icon" onclick="toggleSearch()">🔎</div>
+        <div id="searchBox" class="search-box">
+            <input type="text" id="searchInput" placeholder="Search..." onkeyup="handleSearch(event)">
+            <div id="searchResults" class="search-results"></div>
+        </div>
+    </div>
 
     <main id="app"></main>
+
+    <script>
+    window.onerror = function(msg, src, line) {
+      document.getElementById('app').innerHTML = '<pre style="color:red;padding:2rem">ERROR: ' + msg + '\n at ' + src + ':' + line + '</pre>';
+    };
+    </script>
+
     <script src="pages/home.js"></script>
     <script src="pages/timeline.js"></script>
     <script src="pages/locations.js"></script>
@@ -39,8 +63,5 @@
     <script src="pages/integrated.js"></script>
     <script src="script.js"></script>
 
-</body> 
+</body>
 </html>
-
-
-
