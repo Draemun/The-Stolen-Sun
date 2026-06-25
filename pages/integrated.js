@@ -21,8 +21,11 @@ function renderIntegrated() {
 
       ${tc('How You Get There', 'Legal · Black Market · Inevitability', `
         <p>Legal grafts are small and controlled. The Lens manages the rate of integration carefully, mostly because a fully Integrated person stops being a customer and becomes a liability.</p>
+        <br>
         <p>Black market grafts get you there faster. Larger fragments, unprocessed, inserted into a body that wasn't prepared for them. The power is real, but so is the acceleration.</p>
+        <br>
         <p>Some people hit the threshold without trying. Accumulated legal grafts over years, a childhood integration that grew with the body, a single black market graft that went further than expected...The Integrated are not all people who chose this.</p>
+        <br>
         <p>The Lens knows exactly when someone is approaching the threshold. Their maintenance contracts give them full biological monitoring. They flag the accounts, restrict credit access, and stop offering appointments. By the time someone realizes what's happening, the formal economy has already let them go.</p>
       `)}
 
@@ -30,7 +33,9 @@ function renderIntegrated() {
 
       ${tc('How the World Treats Them', 'Hunted From Both Sides', `
         <p>Gods don't recognize them as kin, but rather as stolen pieces, and they want those pieces back. The divine substance in an Integrated person still registers as part of the god it came from and the god can feel it.</p>
+        <br>
         <p>Humans see them as unpredictable and dangerous. Visible crystallization reads as contamination. Guild registration closes off and housing becomes difficult. The Solari's official position is that heavy Integration is a personal health failure and the result of poor choices.</p>
+        <br>
         <p>God-hunters have authorization to contain Integrated people above certain thresholds. Contain is the official word. What it means in practice depends on who's doing it.</p>
       `)}
 
@@ -38,8 +43,11 @@ function renderIntegrated() {
 
       ${tc('The Crystal Farms & the Perfect Machine', 'Living Power Sources', `
         <p>Some Integrated people are kidnapped from the Undercroft. The disappearances are basically invisible: no official credit history, no guild registration, no one filing reports.</p>
+        <br>
         <p>They end up in one of two places. The Crystal Farms use Integrated bodies as accelerants for crystal growth. The divine saturation in their tissue produces faster, denser crystal than any other method. They are kept alive because living hosts produce more than dead ones.</p>
+        <br>
         <p>The Perfect Machine uses them as power sources for the godhood transfer process. The early attempts burned through unmodified humans instantly. Integrated people last longer. The ones whose minds survived the process in any functional state are the ones the Order is most interested in now.</p>
+        <br>
         <p>The Solari created the conditions that produced Integration through unregulated godware, criminalized the result, then began harvesting the victims to power a machine that would benefit only the Order. The people they broke are literally fueling the system's apotheosis.</p>
       `)}
 
@@ -47,7 +55,9 @@ function renderIntegrated() {
 
       ${tc('The Ones Who Got Away', 'The Angriest People Alive', `
         <p>Some escaped the farms and some figured out what was happening early enough to disappear into the Undercroft's informal economy before the Lens could flag them.</p>
+        <br>
         <p>Some work with Fragment Runners, some have found their way to The Pack and some are just surviving, which in their circumstances is already a full-time occupation.</p>
+       <br>
         <p>The most stable ones are those whose human and divine natures are corrupting in ways that counterbalance each other. The internal tension is exhausting. It is also, sometimes, the thing keeping them functional.</p>
       `)}
 
