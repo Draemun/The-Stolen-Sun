@@ -14,10 +14,13 @@ function renderReligion() {
       ${tc('The Church of the Stolen Sun', 'Official · State Religion', `
         <p>The gods were never benevolent. The original compact was a trap, divine beings extracting worship and sacrifice from humanity under the pretense of protection, keeping humans deliberately small and dependent, but humans awakened and the forbidden ritual was the first act of self-determination.</p>
         <p>The gods withdrew in fear, for humanity had finally reached for something that would have made them equals, and the gods couldn't allow that. The First Harvest was therefore not theft. It was a reclamation.</p>
+        <br>
         <p>The mini-star is a converted power source, divine energy repurposed for human flourishing. The gods don't experience pain because they're not persons. The war is therefore righteous.</p>
+        <br>
         <p>Services are held in the cathedral levels of the Spire and in smaller chapels throughout the Nave. The Undercroft has Solari chapels too, less maintained, more attended out of social obligation than conviction.</p>
         <p>The central ritual involves processed Aevum fragments in ceremonial vessels, light projected through them, the congregation bathed in fragment-light that the Solari uses deliberately for its emotional effects.</p>
         <p>Prayers are addressed to the light itself. There's a theological argument within the Solari about whether this constitutes worship of the Sundered One, which would be deeply problematic, or worship of the principle of human triumph expressed as light, which is fine. This argument has been ongoing for decades.</p>
+        <br>
         <p>The saints are the engineers of the first Core. The martyrs are god-hunters who didn't come back. The heretics are those who venerate the gods; when their shrines appear in the Undercroft the Solari removes them and calls them seditious.</p>
         <p>Children are brought into the faith young. The ceremony at integration has a child receiving their first legal godware. Getting your godware blessed is standard practice. Most people don't think about what it means that the church blesses the product the big corpo sells.</p>
         <p>Any theology that attributes consciousness or suffering to gods is suppressed. Any practice that resembles the old worship is to be done in secret or severe consequences will come.</p>
@@ -25,6 +28,7 @@ function renderReligion() {
       ${tc('The Old Faith', 'Suppressed · Underground', `
         <p>The Old Faith believes that gods are persons, vast, inhuman, bound by their domains, often indifferent to individual humans, but they still have interiority, with something that functions like feeling.</p>
         <p>The compact was genuinely mutual. Imperfect maybe, sometimes exploitative, but not a trap. The harvest is wrong.</p>
+        <br>
         <p>Some want the compact restored, some want something new, some just want the harvest to stop and believe the rest will follow.</p>
         <p>Services are small, in private homes, occasionally outdoors in dead zones where nobody officially goes. Prayers addressed to specific gods by domain and by whatever name those gods were known in that community's tradition. They offer small things: food, handmade objects, the products of human skill and care.</p>
         <p>Whether the gods receive these offerings is unclear. The names of the "Heretics", people who hid gods in their homes and were killed or kidnapped for it, are passed. People who refused integration and were economically destroyed for it. The shrines in the Undercroft hold their names, small offerings and maybe dead crystals.</p>

@@ -33,6 +33,7 @@ function renderGods() {
 
       <p>Gods cannot be killed. They can be endlessly tortured, weakened to an almost human state, harvested repeatedly…but they always come back.</p>
       <p>No new gods are being created because of the war, but the existing ones are still out there, still powerful, still furious.</p>
+      <br>
       <p>Humanity is slowly winning. The gods still standing are the ones who survived this long, which means they're the dangerous ones.</p>
       <p>When a god is maimed, the severed part crystalizes and their divine substance becomes physical. This can be harvested, processed and used. A god respawns eventually, feeling everything that was taken from them.</p>
       <p>Solari's official theology says gods don't experience pain. Of course…</p>
@@ -67,12 +68,16 @@ function renderGods() {
 
       ${tc('True Death & the Core-Self', 'Classified · Most Dangerous Knowledge', `
         <p>Gods respawn from the Tree of Life; they can be maimed, harvested, weakened to almost human state, but they come back.</p>
+        <br>
         <p>But true death is possible if another god consumes their Self-Core, the crystallized center of a god's divine nature, the part that makes them specifically THEM rather than just a mass of divine energy.</p>
         <p>Every god has one. It's the hardest part to access, the most protected, the thing that would form last when they respawn and first when they die.</p>
+        <br>
         <p>When a god consumes another god's Core-Self, they absorb that god's domain. The more Core-Selves consumed the more powerful and the more fractured the god is.</p>
         <p>The consumed god is truly gone. The Tree of Life registers the loss as one fewer thread in the divine fabric and the Primordial Gods feel every true death.</p>
+        <br>
         <p>Too many true deaths and the cosmological system starts losing structural integrity. This is also what Finality does, but faster, and it annihilates domains instead of integrating them. A god consumed by Finality doesn't add to it. It just ceases. Which is worse.</p>
         <p>Some gods have been killing other gods to gain power. The war created cover for internal divine politics that were already complicated. The Pack is partly formed around mutual protection from this.</p>
+        <br>
         <p>The God-Hunters don't know about Core-Selves officially, but the Order do. The fact that divine true-death is possible and that the mechanism involves consuming the Core-Self is the most classified piece of information in Solaria, because if humans knew it was possible to truly kill a god, the war's logic changes entirely and becomes something nastier.</p>
         <p>Fragment Runners have folklore about "god hearts", objects of immense power found rarely in dead zones. They fetch extraordinary prices, but nobody who sells one knows exactly what they're selling.</p>
       `)}

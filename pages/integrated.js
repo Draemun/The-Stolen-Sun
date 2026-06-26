@@ -13,7 +13,9 @@ function renderIntegrated() {
 
       ${tc('The Threshold', 'When You Stop Being Just Human', `
         <p>Godware works on a spectrum. A little divine material is functional, manageable. At some point the crystal stops being something you carry and starts overriding who you are.</p>
+        <br>
         <p>The Lens calls it Integration and frames it as cosmetic. It is not cosmetic. The crystallization spreading from graft sites into surrounding tissue is the god's substance rewriting the host's biology, slowly, irreversibly.</p>
+        <br>
         <p>It's a gradual shift where one day you realize the crystal has opinions and some of them feel like yours.</p>
       `)}
 
@@ -57,7 +59,7 @@ function renderIntegrated() {
         <p>Some escaped the farms and some figured out what was happening early enough to disappear into the Undercroft's informal economy before the Lens could flag them.</p>
         <br>
         <p>Some work with Fragment Runners, some have found their way to The Pack and some are just surviving, which in their circumstances is already a full-time occupation.</p>
-       <br>
+        <br>
         <p>The most stable ones are those whose human and divine natures are corrupting in ways that counterbalance each other. The internal tension is exhausting. It is also, sometimes, the thing keeping them functional.</p>
       `)}
 

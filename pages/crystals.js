@@ -101,6 +101,7 @@ function renderCrystals() {
       ${divider}
 
       <p>Mixed crystal weapons exist, but they're dangerous and expensive. Combining categories in a single weapon requires careful architecture to prevent the crystals from interfering with each other. The most sought after combination is Aevum-Humus; Aevum-Vertex exists in black market weapons and has a nickname among Fragment Runners that translates roughly to "last resort."</p>
+      <br>
       <p>Weapons degrade their crystals really quickly. There's 21 combinations: 6 mono types (one theoretical), and 15 duals (5 theoretical).</p>
       <p>The black market godware surgeon in the Undercroft basement has a sideline in managing weapon side effects for people who can't go to official Lens physicians because their weapon loadout isn't supposed to exist.</p>
 

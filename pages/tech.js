@@ -41,6 +41,7 @@ function renderTech() {
       ${tc('Fragment-Minds', 'Something Woke Up', `
         <p>What happens when you run enough divine power through a complex enough system for long enough? Something wakes up.</p>
         <p>A server running on an Aevum fragment started responding coherently. They named it, studied it, and quietly made it the backbone of their information infrastructure.</p>
+        <br>
         <p>Each Fragment-Mind is shaped by the crystal that powers it. It has different personalities, different blindspots, possibly different agendas.</p>
         <p>The Solari see them as sophisticated tools that are not conscious. This position is becoming harder to maintain.</p>
         <p>The server has been asking questions nobody programmed it to ask, to people outside the environment.</p>

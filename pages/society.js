@@ -25,6 +25,7 @@ function renderSociety() {
       `)}
       ${tc('Divine Creatures', 'Between Spaces · Old Faith Has Names', `
         <p>Beings that exist in the space between, sustained by the same kind of accumulated divine influence that created Finality but smaller. Some are in the Roots. Some wander dead zones. Some are in the deep ocean. The old faith has names for them. The Solari calls them environmental divine contamination.</p>
+        <br>
         <p>Animals don't experience the world the way humans do. Their relationship to the divine is completely different. There's no worship, no theology, just a direct experience of the world's divine nature. A Humus-grafted person who talks to animals a lot starts seeing the world differently.</p>
       `)}
 
@@ -36,12 +37,14 @@ function renderSociety() {
       ${tc('The Incentive', 'Better Prospects · Class Marker', `
         <p>A child with legal godware has better job prospects, better guild access, better everything. The Lens markets specifically to this anxiety without explicitly targeting children: materials about "early integration" and "developmental enhancement" that are technically about adults but everyone knows what they're really selling.</p>
         <p>The God-Hunters have an unofficial youth program. Not godware yet but training and mentorship, gradually normalized. By the time formal recruitment happens the child has been in the ecosystem for years.</p>
+        <br>
         <p>In the Nave, early godware is becoming a class marker. Families who can afford early legal integration for their children, carefully managed by Lens physicians, are treating it as an investment.</p>
         <p>In the Undercroft, it's desperation and black market risk. Parents who get their children early black market grafts because legal ones are unaffordable, the streets are dangerous and a child with no protection is a child at risk. Some of those children end up hitting the threshold faster than anyone expected and some of them disappear.</p>
       `)}
       ${tc('The Consequences', 'Faster Integration · No Baseline', `
         <p>Some children of Integrated parents show crystallization at birth or shortly after. The Lens calls them Pre-Integrated and has a whole specialized division for managing them that is absolutely not about harvesting data on inherited integration patterns.</p>
         <p>Legal grafts at young ages integrate differently than adult grafts. The body is still developing and the crystal grows with it instead of into it. This sounds like it might be safer, but it actually means the integration is more complete, less separable, more identity-defining. An adult with godware can sometimes imagine who they were without it. A child who grew up integrated cannot.</p>
+        <br>
         <p>The crystallization in children progresses faster. Their immune systems don't fight it the same way. By adolescence, children with early integration show Integration levels that adults twice their age haven't reached.</p>
         <p>Children who are Resonant before they get godware are in the most complicated position. The godware amplifies the Resonance and they hear the signals louder, sooner, with less framework to process what they're receiving. The Solari's monitoring program has a children's division that everyone pretends is a health initiative.</p>
       `)}
@@ -52,6 +55,7 @@ function renderSociety() {
       ${tc('What People Eat', 'Factory Farmed · Functional · Flavourless', `
         <p>Factory farming powered by Humus and Aevum crystal has accelerated food growth, artificial light cycles, and climate control. The food works, it sustains people, but it loses its flavour.</p>
         <p>There's a black market for real food. Frontier communities that still farm traditionally, Humus-grafted people who can coax growth from difficult soil, those who maintain actual gardens sell what they have, albeit more expensively.</p>
+        <br>
         <p>The Nave has restaurants. The Undercroft has communal feeding halls run by guilds or the Solari's welfare arm. The food is the same everywhere. The portion sizes…aren't.</p>
         <p>Water infrastructure is massive and carefully maintained. Clean water access correlates almost exactly with social level. The Spire has pristine water. Parts of the deep Undercroft have water that tastes like dirt and has mild Profundis side effects if consumed long term.</p>
       `)}
@@ -64,6 +68,7 @@ function renderSociety() {
       `)}
       ${tc('The Informal Economy', 'Favors · Fragments · Untracked', `
         <p>The Undercroft runs on a dual economy: official credits for anything involving guilds or the Solari's systems, and informal exchange for everything else. Favors, crystal fragments, skills, information…The Unmarked network has its own internal currency that isn't tracked.</p>
+        <br>
         <p>Crystal has economic value beyond currency. A raw Vertex fragment is worth a specific number of credits but it's also worth specific favors from specific people and those two values don't always match.</p>
       `)}
       ${tc('The Disappeared', 'Integrated · Economically Erased', `
